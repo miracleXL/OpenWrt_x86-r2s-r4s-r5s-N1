@@ -48,6 +48,7 @@ on:
           - sunxi_cortexa53
           - x86_64
           - x86_generic
+        default: 'ipq50xx_arm'
       param:
         description: 'parameter'
         required: false
